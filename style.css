@@ -1,0 +1,13 @@
+*{margin: 0;}
+header{
+    background-color: aquamarine;
+    color: blanchedalmond;
+}
+main{
+    background-color: violet;
+     color: cadetblue;
+}
+footer{
+    background-color: darkgray;
+     color: darkgoldenrod;
+    }
